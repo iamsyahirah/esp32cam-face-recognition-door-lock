@@ -11,8 +11,8 @@
 //#define CAMERA_MODEL_M5STACK_WIDE
 #define CAMERA_MODEL_AI_THINKER
 #include "camera_pins.h"
-const char* ssid = "nashikin@unifi";
-const char* password = "03082400";
+const char* ssid = "";
+const char* password = ";
 #define LED_BUILTIN 4
 #define relay 4 
 #define buzzer 2
